@@ -20,8 +20,8 @@ Realtime drawing can be achieved by the people using same link at same time.
 
 
 **Tech Stack used:**
-*HTML
-*CSS
+--HTML
+--CSS
 *JavaScript (Express.js for backend)
 *socket.io
 
