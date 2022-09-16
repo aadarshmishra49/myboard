@@ -20,10 +20,10 @@ Realtime drawing can be achieved by the people using same link at same time.
 
 
 **Tech Stack used:**
-HTML
-CSS
-JavaScript (Express.js for backend)
-socket.io
+*HTML
+*CSS
+*JavaScript (Express.js for backend)
+*socket.io
 
 **Key Features**
 This real-time whiteboard provides the user with following features:
